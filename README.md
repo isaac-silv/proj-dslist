@@ -15,3 +15,8 @@ O mesmo foi baseado no projeto apresentado no canal DevSuperior atráves de um i
 * H2 database (Ambiente de teste)
 * PostgreSQL (Ambiente de homologação)
 * Spring Data JPA
+
+# Autor
+**Isaac Silva**
+Desenvolvedor Backend
+https://www.linkedin.com/in/isaac-silva-948290220/
