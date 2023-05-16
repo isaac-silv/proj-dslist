@@ -18,5 +18,7 @@ O mesmo foi baseado no projeto apresentado no canal DevSuperior atráves de um i
 
 # Autor
 **Isaac Silva**
+
 Desenvolvedor Backend
+
 https://www.linkedin.com/in/isaac-silva-948290220/
